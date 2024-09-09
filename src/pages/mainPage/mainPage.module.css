@@ -1,0 +1,14 @@
+.tableStyles {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.thStyles {
+  border-bottom: 2px solid rgb(221, 221, 221);
+  padding: 8px 8px;
+}
+
+.tdStyles {
+  border: 1px solid rgb(221, 221, 221);
+  padding: 8px;
+}
